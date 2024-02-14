@@ -54,7 +54,7 @@
                      <asp:FileUpload ID="FileUpload1" runat="server" AllowMultiple="True" />
                         <br />
 
-                     <asp:Button ID="Button1" runat="server" Text="Submit" OnClick="test" />
+                     <asp:Button ID="Button1" runat="server" Text="Submit" OnClick="MultipleExcelFiles" />
                      <br />
                  </div>
 
